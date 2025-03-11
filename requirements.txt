@@ -1,0 +1,15 @@
+requirements.txt
+
+Requirements for the project:
+
+Installations:
+
+Java 17
+Node.js 8.19.2
+
+Dependencies/Libraries in the project:
+
+Axios
+H2 database
+Spring Boot Web
+Spring Boot JPA
